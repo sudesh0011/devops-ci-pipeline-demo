@@ -1,4 +1,3 @@
-
 const add = require('./app.js');
 
 test('adds 2 + 3 to equal 5', () => {
